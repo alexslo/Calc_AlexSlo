@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="magic_flame">#00FFFFFF</color>
+    <color name="digit_button_text">#FFFFFFFF</color>
+    <color name="button_color">#962e312b</color>
+    <color name="digital_button_color">#96464943</color>
+    <color name="button_text">#FFE6E6E6</color>
+    <color name="dark_blue_color">#07547B</color>
+    <color name="background">#FF000000</color>
+    <color name="blue_color">#31B6E7</color>
+</resources>
